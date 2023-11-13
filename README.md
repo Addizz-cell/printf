@@ -1,0 +1,2 @@
+# print()
+This is a collaboration project by **Afolabi Praise** and **Fawas Iwayemi**, ALX software engineering student, where a function "_printf" works like the actual "printf" command found im the stdio.h libary.  
