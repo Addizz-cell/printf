@@ -20,5 +20,5 @@ typedef struct print
 } print_t;
 
 int _printf(const char *format, ...);
-
+int _print_number(int num);
 #endif
