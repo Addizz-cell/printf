@@ -88,6 +88,7 @@ if the program runs successfully, the **return value** is the amount of chars pr
 
 ## Authors
 Afolabi Praise <afolabipraise43@gmail.com>
+
 Fawas Iwayemi <Iwayemiolawale@gmail.com>
 
 ------------
